@@ -1,0 +1,26 @@
+@import url("comi.ttf");
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400;700&display=swap');
+.hbd {
+    padding: 10px;
+    margin-top: 10px;
+    text-align: center;
+    font-family: 'Lobster',serif;
+    font-weight: bold;
+    color: #ffff;
+    -webkit-text-stroke: 0.4px rgb(242, 0, 255);
+}
+.hbd .feb {
+    color: yellow;
+}
+.ayang img {
+    width: 100%;
+    height: auto;
+}
+.myword {
+    padding: 15px;
+    text-align: center;
+    font-size: 7pt;
+    font-family: 'Comic Neue';
+    color: white;
+}
